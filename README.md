@@ -2,6 +2,8 @@
 
 A PowerShell-based security analysis tool that helps detect potentially suspicious processes, network connections, and system anomalies on Windows systems.
 
+Results are shown in a generated HTML document that auto-opens upon completion of the scan, with tools made available to do further analysis of potential threats.
+
 ## 🔍 Features
 
 - **Process Analysis**
